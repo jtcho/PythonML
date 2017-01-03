@@ -6,3 +6,7 @@ include/
 .venv
 .Python
 pip-selfcheck.json
+
+# iPython
+.ipynb_checkpoints
+share/
